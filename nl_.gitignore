@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+
+# spaCy models (downloaded at runtime)
+nl_core_news_sm/
+
+# Corpus files (data not included in repo)
+*.pdf
+*.docx
+
+# Output files
+*.json
+!sample_output.json
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp

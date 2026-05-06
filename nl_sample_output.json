@@ -1,0 +1,133 @@
+{
+  "_note": "Sample output from a corpus of 188 Dutch Ministry of Economic Affairs parliamentary letters (kamerstukken), 2020 onwards. Filenames anonymized.",
+  "filenames": [
+    "doc_001.pdf",
+    "doc_002.pdf",
+    "doc_003.pdf",
+    "doc_004.pdf",
+    "doc_005.pdf",
+    "doc_006.pdf",
+    "doc_007.pdf",
+    "doc_008.pdf",
+    "doc_009.pdf",
+    "doc_010.pdf"
+  ],
+  "topics": [
+    {
+      "_label": "Groningen gas storage operations",
+      "terms": [
+        "gasopslag", "norg", "grijpskerk", "mijnbouwschade",
+        "gaswinning", "opslagcapaciteit", "ondergronds",
+        "groningen gemeente", "drenthe", "waterschap",
+        "ontwerpbesluit", "inspraak", "monitoring"
+      ]
+    },
+    {
+      "_label": "Budget mutations and financial adjustments",
+      "terms": [
+        "najaarsnota", "overboeking", "begrotingen", "meevaller",
+        "loonbelasting", "technisch mutatie", "neerwaarts bijstelling",
+        "programmamiddelen", "energierekening", "zvw"
+      ]
+    },
+    {
+      "_label": "Energy policy and transition",
+      "terms": [
+        "aardgas", "gasopslag", "energiebesparing", "energiebesparingsplicht",
+        "waterstofdrager", "lng", "pijpleiding", "nucleair",
+        "elektriciteitsmarkt", "elektriciteitssysteem", "energiearmoede",
+        "russisch", "warmte", "batterij"
+      ]
+    },
+    {
+      "_label": "Labour market and administrative oversight",
+      "terms": [
+        "zzp", "schijnzelfstandigheid", "staatstoezicht",
+        "beoordeling arbeidsrelatie", "extern inhuur",
+        "jaarlijks kost", "vaccins", "koninkrijkrelatie",
+        "capaciteitsversterking"
+      ]
+    },
+    {
+      "_label": "National Growth Fund",
+      "terms": [
+        "nationaal groeifonds", "ngf", "adviescommissie",
+        "definitief toekenning", "laaggeletterdheid",
+        "beroeponderwijs", "minimumloon", "verduurzaming landbouw",
+        "kennisinstelling technologie", "groeifonds project"
+      ]
+    },
+    {
+      "_label": "EU policy and legislation",
+      "terms": [
+        "lidstaat", "mededeling", "bevoegdheid", "circulair",
+        "digitaal", "strategie", "industrie", "innovatie",
+        "samenwerking", "internationaal", "motie", "raad"
+      ]
+    },
+    {
+      "_label": "Knowledge policy and parliamentary inquiries",
+      "terms": [
+        "wrr", "enquêtecommissie", "parlementair", "tata steel",
+        "noordzee", "beleidsevaluatie", "beleidscyclus",
+        "kennis beleid", "modelmatig", "beleidsproces",
+        "kwaliteitseis", "rijksambtenar"
+      ]
+    },
+    {
+      "_label": "Foreign investment and international trade",
+      "terms": [
+        "invest holland", "acquisitie", "multinational",
+        "netherlands foreign investment agency", "investeringsprojecten",
+        "geopolitiek", "consulat", "renteaftrek",
+        "stabiel voorspelbaar", "homogeen groep internationaal"
+      ]
+    },
+    {
+      "_label": "Energy security and Russia-Ukraine",
+      "terms": [
+        "gasleveringszekerheid", "rusland", "oekraïne", "navo",
+        "elektriciteit gas", "versterking weerbaarheid",
+        "nadeelcompensatie", "mijnbouwschade", "vulseizoen",
+        "juridisch financieel", "financieel implicatie"
+      ]
+    },
+    {
+      "_label": "Groningen earthquake damage compensation",
+      "terms": [
+        "schadeafhandeling", "versterkingsoperatie", "ncg", "img",
+        "mijnbouwschade", "schaderegeling", "bewoner",
+        "duurzaam herstel", "rechtmatigheid doelmatigheid",
+        "fysiek schade", "versterkingsopgave", "ebn"
+      ]
+    }
+  ],
+  "clusters": [4, 5, 5, 8, 4, 5, 6, 9, 5, 9],
+  "phrases": [
+    "economisch zaak",
+    "groen groei",
+    "klimaat groen groei",
+    "circulair economie",
+    "buitenlands zaak",
+    "infrastructuur waterstaat",
+    "intern markt",
+    "lang termijn",
+    "justitie veiligheid",
+    "financieel gevolg",
+    "strategisch autonomie",
+    "onderzoek innovatie",
+    "verduurzaming industrie",
+    "veiligheid stabiliteit",
+    "breed welvaart",
+    "nationaal groeifonds",
+    "geopolitiek aspect",
+    "financieel kader",
+    "ruimtelijk ordening",
+    "sociaal zaak"
+  ],
+  "style": {
+    "avg_sentence_length": 19.2,
+    "total_modal_verbs": 3854,
+    "_note": "Modal verbs tracked: moet, zal, mag, kan, kunnen. High modal verb count (3854) reflects directive administrative register across 188 letters."
+  }
+}
